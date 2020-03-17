@@ -1,0 +1,5 @@
+2020-03-17 6:14:04 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'vtt_opencart' in /var/www/html/system/library/db/mysqli.php on line 7
+2020-03-17 6:14:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/system/library/db/mysqli.php on line 10
+2020-03-17 6:14:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/system/library/db/mysqli.php on line 10
+2020-03-17 6:14:04 - PHP Notice:  Undefined variable: mysql in /var/www/html/install/controller/install/step_3.php on line 280
+2020-03-17 6:14:04 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/install/controller/install/step_3.php on line 280
